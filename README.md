@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Post the newest Lynda.com releases into a room by typing ```!lynda``` in chat.
+
+## Links
+
+* [isis-plugin-lynda on RubyGems](https://rubygems.org/gems/isis-plugin-lynda)
